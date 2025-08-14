@@ -58,6 +58,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+.category-title{
+    text-align:center
+}
 
 /* Product Card */
 .product-card {
